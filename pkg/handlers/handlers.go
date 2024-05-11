@@ -1,7 +1,18 @@
 package handlers
 
-import "fmt"
+import (
 
-func main(){
+)
+
+
+func GetUser(){
 
 }
+
+func CreateUser(){}
+
+func UpdateUser(){}
+
+func DeleteUser(){}
+
+func UnhandledMethod()(){}
